@@ -22,6 +22,3 @@ import { HistoryModule } from './history/history.module';
   providers: [AppService],
 })
 export class AppModule {}
-
-// S0wJJQjonNpllJUi
-// partha2002borah
